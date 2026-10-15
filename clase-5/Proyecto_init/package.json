@@ -1,0 +1,18 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "Pruebas",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Carlos Parada",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase": "^12.19.0"
+  },
+  "devDependencies": {}
+}
